@@ -1,3 +1,4 @@
+[CASO PRÁCTICO.xlsx](https://github.com/user-attachments/files/16301847/CASO.PRACTICO.xlsx)
 # Diplomado-U-d-C-Practica-Excelmodulo-dos
 Entrega de caso práctico módulo dos Excel
 
@@ -25,3 +26,4 @@ c) Reforzar la campaña de mercadotecnia focalizada al género masculino para ca
 
 ![image](https://github.com/user-attachments/assets/a242e4bc-bf15-4847-ae40-c4cc27cb7b10)
 
+[CASO PRÁCTICO.xlsx](https://github.com/user-attachments/files/16301855/CASO.PRACTICO.xlsx)
